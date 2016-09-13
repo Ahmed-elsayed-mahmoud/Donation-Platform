@@ -31,7 +31,7 @@ Donation Platform includes the following features:
 Registration must include the following features:
 - A registration form that validates user input, and displays the error(s) when necessary.
 - After a successful registration, a donor will recieve a welcome email ,but in case of organization registeration, 
-the admin will check and approve the org. data then send the welcome email.
+the admin will approve the org. after cheching its information then send the welcome email.
 - If a user attempts to visit a restricted page without being signed in, then redirect to the Signup page.
 
 Login must include the following features:
@@ -42,10 +42,17 @@ Donors must include the following features:
 - Donors should only be able to edit their profiles. They receive an error message if they disobey this rule.
 - Donors can see any organization and display its info, contacts, needs and achievements and donate to any need.
 - Donors can display all their payments to every organization that they have donated to.
+- Donors can send a message to the admin of the site.
 
 Organizations must include the following features:
 - Organizations should only be able to edit their profiles. They receive an error message if they disobey this rule.
 - Organizations can add/delete/edit their needs and achievements.
+- Organizations can send a message to the admin of the site.
+
+Admins must include the following features:
+- Admins able to approve the new organizations after checking their information.
+- Admins able to reply to messages that users send.
+- Admins can display all the donors or organizations.
 
 ## Setting up your computer
 

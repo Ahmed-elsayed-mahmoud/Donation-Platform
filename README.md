@@ -1,6 +1,6 @@
 # Donation Platform
 
-Online: https://donation-platform1.herokuapp.com/
+Online: https://donations1.herokuapp.com/
 
 ## Project Overview 
 
